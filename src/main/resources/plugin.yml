@@ -1,7 +1,17 @@
 name: NetherRoofBlocker
-version: '1.0-SNAPSHOT'
+version: '${version}'
 main: com.jellypudding.netherRoofBlocker.NetherRoofBlocker
 api-version: '1.21'
 description: "Prevents players from accessing the Nether roof by automatically teleporting them back down."
 author: AlphaAlex115
 website: www.minecraftoffline.net
+commands:
+  netherroofblocker:
+    description: "NetherRoofBlocker admin commands"
+    usage: "/netherroofblocker <reload|toggle>"
+    permission: netherroofblocker.admin
+    permission-message: "You don't have permission to use this command."
+permissions:
+  netherroofblocker.admin:
+    description: Allows using NetherRoofBlocker admin commands
+    default: op
