@@ -1,0 +1,7 @@
+name: NetherRoofBlocker
+version: '1.0-SNAPSHOT'
+main: com.jellypudding.netherRoofBlocker.NetherRoofBlocker
+api-version: '1.21'
+description: "Prevents players from accessing the Nether roof by automatically teleporting them back down."
+author: AlphaAlex115
+website: www.minecraftoffline.net
