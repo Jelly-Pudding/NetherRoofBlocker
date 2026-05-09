@@ -1,5 +1,5 @@
 # NetherRoofBlocker Plugin
-**NetherRoofBlocker** is a Minecraft Paper 1.21.1 plugin that prevents players from accessing the Nether roof by automatically teleporting them back down to a safe location.
+**NetherRoofBlocker** is a Minecraft Paper 26.1.2 plugin that prevents players from accessing the Nether roof by automatically teleporting them back down to a safe location. Although it was custom built for [minecraftoffline.net](https://www.minecraftoffline.net), any server can use it.
 
 ## Features
 - Automatically detects players on the Nether roof (Y >= 128).
