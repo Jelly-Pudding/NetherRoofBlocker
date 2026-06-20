@@ -1,7 +1,7 @@
 name: NetherRoofBlocker
 version: '${version}'
 main: com.jellypudding.netherRoofBlocker.NetherRoofBlocker
-api-version: '26.1.2'
+api-version: '26.2'
 description: "Prevents players from accessing the Nether roof by automatically teleporting them back down."
 author: AlphaAlex115
 website: www.minecraftoffline.net
